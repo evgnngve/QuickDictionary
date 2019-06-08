@@ -1,0 +1,1 @@
+Credit for the Bagnard font used in the icons - https://github.com/sebsan/Bagnard

@@ -1,0 +1,11 @@
+{
+    "manifest_version": 2,
+    "name": "QuickDictionary",
+    "version": "1.0",
+
+    "description": "Highlight a word, right click, and select QuickDictionary option to get a definition",
+    "icons": {
+        "48": "icons/qd-48.png",
+        "96": "icons/qd-96.png"
+    }
+}
