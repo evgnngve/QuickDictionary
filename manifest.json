@@ -7,5 +7,7 @@
     "icons": {
         "48": "icons/qd-48.png",
         "96": "icons/qd-96.png"
-    }
+    },
+    
+    "permissions": ["contextMenus"]
 }
